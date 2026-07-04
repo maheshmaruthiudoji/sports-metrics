@@ -328,6 +328,8 @@ For issues and questions:
 <img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 31 PM" src="https://github.com/user-attachments/assets/974aee59-cb3c-412f-8779-9f9d428c25a1" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 32 PM" src="https://github.com/user-attachments/assets/20c78d45-620e-4436-aeab-c39d8451c7eb" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 34 PM" src="https://github.com/user-attachments/assets/c62235ae-5b16-423f-abe3-da5a0285062f" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 31 PM" src="https://github.com/user-attachments/assets/bc54f309-e6ef-4ab9-8b01-39a0231dc8c3" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 33 PM" src="https://github.com/user-attachments/assets/dc2d7aec-a2d8-47bb-8eb5-e1aca549c052" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-07-04 at 5 43 35 PM" src="https://github.com/user-attachments/assets/317b3ade-4bb3-422f-a019-207ee9b49f96" />
 
 
